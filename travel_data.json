@@ -1,0 +1,28 @@
+{
+  "destinations": [
+    {
+      "name": "Mombasa, Kenya",
+      "weather_type": "Hot",
+      "base_transport_cost": 50.00,
+      "accommodations": [
+        { "name": "Nyali Beach Resort", "max_occupancy": 4, "price_per_night": 120.00 },
+        { "name": "Backpacker Haven", "max_occupancy": 1, "price_per_night": 20.00 }
+      ],
+      "activities": [
+        { "name": "Snorkeling in Marine Park", "cost_per_person": 30.00 },
+        { "name": "Fort Jesus Guided Tour", "cost_per_person": 10.00 }
+      ]
+    },
+    {
+      "name": "Naivasha, Kenya",
+      "weather_type": "Mild",
+      "base_transport_cost": 15.00,
+      "accommodations": [
+        { "name": "Lake View Cabins", "max_occupancy": 6, "price_per_night": 80.00 }
+      ],
+      "activities": [
+        { "name": "Hell's Gate Cycling", "cost_per_person": 25.00 }
+      ]
+    }
+  ]
+}
