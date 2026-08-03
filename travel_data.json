@@ -1,0 +1,237 @@
+{
+  "destinations": [
+    {
+      "name": "Mombasa, Kenya",
+      "weather_type": "Hot",
+      "base_transport_cost": 50.00,
+      "accommodations": [
+        { "name": "Nyali Beach Resort", "max_occupancy": 4, "price_per_night": 120.00 },
+        { "name": "Backpacker Haven", "max_occupancy": 1, "price_per_night": 20.00 }
+      ],
+      "activities": [
+        { "name": "Snorkeling in Marine Park", "cost_per_person": 30.00 },
+        { "name": "Fort Jesus Guided Tour", "cost_per_person": 10.00 }
+      ]
+    },
+    {
+      "name": "Naivasha, Kenya",
+      "weather_type": "Mild",
+      "base_transport_cost": 15.00,
+      "accommodations": [
+        { "name": "Lake View Cabins", "max_occupancy": 6, "price_per_night": 80.00 }
+      ],
+      "activities": [
+        { "name": "Hell's Gate Cycling", "cost_per_person": 25.00 }
+      ]
+    },
+    {
+      "name": "Nairobi County (Urban & Culture)",
+      "weather_type": "Cold",
+      "base_transport_cost": 1500.00,
+      "accommodations": [
+        { "name": "Nairobi CBD Business Hotel", "max_occupancy": 2, "price_per_night": 4500.00 },
+        { "name": "Urban View Airbnb Apartment", "max_occupancy": 4, "price_per_night": 3000.00 }
+      ],
+      "activities": [
+        { "name": "National Museum & Museum of Illusions", "cost_per_person": 1500.00 },
+        { "name": "Bomas of Kenya Cultural Tour", "cost_per_person": 1000.00 }
+      ]
+    },
+    {
+      "name": "Kakamega County (Nature Wonders)",
+      "weather_type": "Mild",
+      "base_transport_cost": 1500.00,
+      "accommodations": [
+        { "name": "Golf Hotel Kakamega", "max_occupancy": 2, "price_per_night": 6000.00 },
+        { "name": "Ilesi Eco-Lodge", "max_occupancy": 3, "price_per_night": 2500.00 }
+      ],
+      "activities": [
+        { "name": "The Crying Stone (Ilesi) Sightseeing", "cost_per_person": 500.00 },
+        { "name": "Cultural Folklore Guided Tour", "cost_per_person": 1000.00 }
+      ]
+    },
+    {
+      "name": "Vihiga County (Scenic & Cultural Ancestry)",
+      "weather_type": "Mild",
+      "base_transport_cost": 1450.00,
+      "accommodations": [
+        { "name": "Maragoli Hills Resort", "max_occupancy": 2, "price_per_night": 4000.00 },
+        { "name": "Mungoma Heritage Homestay", "max_occupancy": 5, "price_per_night": 1800.00 }
+      ],
+      "activities": [
+        { "name": "Maragoli Hills Scenic Hiking", "cost_per_person": 700.00 },
+        { "name": "Exploring Mungoma Caves & Shrines", "cost_per_person": 500.00 }
+      ]
+    },
+    {
+      "name": "Bungoma County (Waterfalls)",
+      "weather_type": "Mild",
+      "base_transport_cost": 1200.00,
+      "accommodations": [
+        { "name": "Webuye Highway Motel", "max_occupancy": 2, "price_per_night": 3000.00 },
+        { "name": "Bungoma Tourist Lodge", "max_occupancy": 4, "price_per_night": 4500.00 }
+      ],
+      "activities": [
+        { "name": "Nabuyole Falls Jungle Trekking", "cost_per_person": 0.00 },
+        { "name": "Waterfall Photography Experience", "cost_per_person": 200.00 }
+      ]
+    },
+    {
+      "name": "Busia County (Ancient Heritage)",
+      "weather_type": "Mild",
+      "base_transport_cost": 1200.00,
+      "accommodations": [
+        { "name": "Busia Border Hotel", "max_occupancy": 2, "price_per_night": 3500.00 },
+        { "name": "Sio Port Lakeside Resort", "max_occupancy": 3, "price_per_night": 5000.00 }
+      ],
+      "activities": [
+        { "name": "Kakapel Rock Art Centre UNESCO Tour", "cost_per_person": 800.00 },
+        { "name": "Sio Port Lakeside Sunset Viewing", "cost_per_person": 300.00 }
+      ]
+    },
+    {
+      "name": "Homa Bay County (Rare Wildlife & Thermal)",
+      "weather_type": "Mild",
+      "base_transport_cost": 1500.00,
+      "accommodations": [
+        { "name": "Ruma Tourist Lodge", "max_occupancy": 2, "price_per_night": 5500.00 },
+        { "name": "Homa Hills Hot Springs Cottages", "max_occupancy": 4, "price_per_night": 4000.00 }
+      ],
+      "activities": [
+        { "name": "Spotting rare Roan antelopes at Ruma", "cost_per_person": 1500.00 },
+        { "name": "Homa Hills Hot Springs Guided Tour", "cost_per_person": 500.00 }
+      ]
+    },
+    {
+      "name": "Kericho County (Agritourism)",
+      "weather_type": "Cold",
+      "base_transport_cost": 1200.00,
+      "accommodations": [
+        { "name": "Kericho Tea Hotel", "max_occupancy": 2, "price_per_night": 6500.00 },
+        { "name": "Chagaik Eco-Cabins", "max_occupancy": 2, "price_per_night": 3500.00 }
+      ],
+      "activities": [
+        { "name": "Tea Plantation Walk & Tea Picking Tour", "cost_per_person": 1000.00 },
+        { "name": "Chagaik Botanical Gardens Photography", "cost_per_person": 400.00 }
+      ]
+    },
+    {
+      "name": "Kilifi County (Unique Landscape)",
+      "weather_type": "Hot",
+      "base_transport_cost": 1500.00,
+      "accommodations": [
+        { "name": "Mambrui Sand Dunes Resort", "max_occupancy": 4, "price_per_night": 9000.00 },
+        { "name": "Dubai Ndogo Budget Villas", "max_occupancy": 2, "price_per_night": 4000.00 }
+      ],
+      "activities": [
+        { "name": "Sand Duning & Beach Driving", "cost_per_person": 2500.00 },
+        { "name": "Coastal Landscape Photography", "cost_per_person": 500.00 }
+      ]
+    },
+    {
+      "name": "Lamu County (Historical & Coastal Relaxation)",
+      "weather_type": "Hot",
+      "base_transport_cost": 10000.00,
+      "accommodations": [
+        { "name": "Lamu House Hotel (Old Town)", "max_occupancy": 2, "price_per_night": 12000.00 },
+        { "name": "Shela Beach Backpackers", "max_occupancy": 1, "price_per_night": 3000.00 }
+      ],
+      "activities": [
+        { "name": "Traditional Dhow Sailing", "cost_per_person": 3500.00 },
+        { "name": "Lamu Old Town UNESCO Walking Tour", "cost_per_person": 1000.00 }
+      ]
+    },
+    {
+      "name": "Tsavo Voi (Taita Taveta County)",
+      "weather_type": "Hot",
+      "base_transport_cost": 1050.00,
+      "accommodations": [
+        { "name": "Voi Wildlife Lodge", "max_occupancy": 3, "price_per_night": 14000.00 },
+        { "name": "Tsavo Red Elephant Camp", "max_occupancy": 2, "price_per_night": 8500.00 }
+      ],
+      "activities": [
+        { "name": "Tsavo National Park Safari Drive", "cost_per_person": 2500.00 },
+        { "name": "Volcanic Landscape Exploration", "cost_per_person": 1200.00 }
+      ]
+    },
+    {
+      "name": "Ngong Hills & Ostrich Farm (Kajiado County)",
+      "weather_type": "Mild",
+      "base_transport_cost": 100.00,
+      "accommodations": [
+        { "name": "Ngong Hills Eco-Camp Glamping", "max_occupancy": 2, "price_per_night": 5000.00 },
+        { "name": "Kajiado Suburban Guest House", "max_occupancy": 4, "price_per_night": 3500.00 }
+      ],
+      "activities": [
+        { "name": "Ngong Hills Windmill Hiking & Picnic", "cost_per_person": 500.00 },
+        { "name": "Ostrich Riding & Feeding Experience", "cost_per_person": 1500.00 }
+      ]
+    },
+    {
+      "name": "Hell's Gate & Lake Naivasha (Nakuru County)",
+      "weather_type": "Mild",
+      "base_transport_cost": 500.00,
+      "accommodations": [
+        { "name": "Lake Naivasha Crescent Camp", "max_occupancy": 3, "price_per_night": 9500.00 },
+        { "name": "Naivasha Backpackers Encampment", "max_occupancy": 2, "price_per_night": 2500.00 }
+      ],
+      "activities": [
+        { "name": "Cycling Among Wildlife & Gorges", "cost_per_person": 1500.00 },
+        { "name": "Lake Naivasha Hippo Boat Ride", "cost_per_person": 2000.00 }
+      ]
+    },
+    {
+      "name": "Lake Nakuru National Park (Nakuru County)",
+      "weather_type": "Mild",
+      "base_transport_cost": 19300.00,
+      "accommodations": [
+        { "name": "Sarova Lion Hill Game Lodge", "max_occupancy": 2, "price_per_night": 22000.00 },
+        { "name": "Lake Nakuru Lodge", "max_occupancy": 3, "price_per_night": 15000.00 }
+      ],
+      "activities": [
+        { "name": "Premium Rhino Sanctuary Safari Drive", "cost_per_person": 3000.00 },
+        { "name": "Pink Flamingo Bird Watching Tour", "cost_per_person": 1000.00 }
+      ]
+    },
+    {
+      "name": "Mombasa Beaches & Fort Jesus (Mombasa County)",
+      "weather_type": "Hot",
+      "base_transport_cost": 1500.00,
+      "accommodations": [
+        { "name": "Nyali Beach Resort & Spa", "max_occupancy": 4, "price_per_night": 12000.00 },
+        { "name": "Mombasa Island Backpacker Haven", "max_occupancy": 1, "price_per_night": 2000.00 }
+      ],
+      "activities": [
+        { "name": "Indian Ocean Swimming & Marine Life", "cost_per_person": 1500.00 },
+        { "name": "Fort Jesus Guided Historical Tour", "cost_per_person": 1000.00 }
+      ]
+    },
+    {
+      "name": "Fourteen Falls (Kiambu-Machakos Border)",
+      "weather_type": "Mild",
+      "base_transport_cost": 500.00,
+      "accommodations": [
+        { "name": "Thika Greens Golf Resort", "max_occupancy": 2, "price_per_night": 11000.00 },
+        { "name": "Chania River Comfort Hotel", "max_occupancy": 2, "price_per_night": 3500.00 }
+      ],
+      "activities": [
+        { "name": "Fourteen Falls Cascade Viewing & Walk", "cost_per_person": 500.00 },
+        { "name": "Traditional Rocky River Boat Rowing", "cost_per_person": 500.00 }
+      ]
+    },
+    {
+      "name": "Lake Victoria (Kisumu County)",
+      "weather_type": "Hot",
+      "base_transport_cost": 1500.00,
+      "accommodations": [
+        { "name": "Kisumu Imperial Hotel Express", "max_occupancy": 2, "price_per_night": 7000.00 },
+        { "name": "Dunga Hill Camp Lakeside Tents", "max_occupancy": 2, "price_per_night": 2500.00 }
+      ],
+      "activities": [
+        { "name": "Lake Victoria Boat Ride & Bird Watching", "cost_per_person": 1500.00 },
+        { "name": "Dunga Beach Sunset & Fish Dining", "cost_per_person": 1200.00 }
+  ]
+
+    }
+  ]
+}
