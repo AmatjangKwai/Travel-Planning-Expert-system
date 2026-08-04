@@ -2134,3 +2134,43 @@ body {
     .restaurant-card { flex-direction: column; text-align: center; }
     .contact-card, .contact-info-card { padding: 24px; }
 }
+
+/* Chat History Container */
+#chat-history {
+    display: none; /* Hidden by default until a message is sent */
+    flex-direction: column;
+    gap: 10px;
+    padding: 15px !important;
+    border: 1px solid #ddd;
+}
+
+/* Base Chat Bubble */
+.chat-bubble {
+    max-width: 80%;
+    padding: 10px 15px;
+    border-radius: 15px;
+    font-size: 14px;
+    line-height: 1.4;
+    animation: fadeIn 0.3s ease-in-out;
+}
+
+/* User Message (Right Side) */
+.user-msg {
+    align-self: flex-end;
+    background-color: #2E7D32; /* A nice safari green */
+    color: white;
+    border-bottom-right-radius: 2px;
+}
+
+/* AI Message (Left Side) */
+.ai-msg {
+    align-self: flex-start;
+    background-color: #f1f1f1;
+    color: #333;
+    border-bottom-left-radius: 2px;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(5px); }
+    to { opacity: 1; transform: translateY(0); }
+}
